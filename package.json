@@ -1,0 +1,7 @@
+{
+  "version": "1.4.2",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "laravel-elixir": "^2.0.0"
+  }
+}

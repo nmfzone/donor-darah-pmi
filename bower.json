@@ -1,0 +1,23 @@
+{
+  "name": "DonorDarahPMI",
+  "version": "1.0.0",
+  "authors": [
+    "Nabilftd <nabilftd@gmail.com>"
+  ],
+  "description": "DonorDarahPMI Assets Dependencies",
+  "keywords": [
+    "DonorDarahSystem",
+    "PalangMerahIndonesia"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
