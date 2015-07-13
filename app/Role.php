@@ -9,7 +9,7 @@ class Role
 		'ADMINPUSAT'  => 'AdminPusat',
 		'ADMINDAERAH' => 'AdminDaerah',
 		'ANGGOTA'     => 'Anggota'
-    ];
+	];
 
 	const ADMINPUSAT  = 'ADMINPUSAT';
 	const ADMINDAERAH = 'ADMINDAERAH';
